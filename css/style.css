@@ -6,8 +6,11 @@
     border: 1px solid white;
     background-color: #00a8bc;
 }
-.nav-link-custom {
+.nav-link-custom, .nav-link-custom:hover {
     color: white;
+}
+.nav-link-custom:hover {
+    text-decoration: underline;
 }
 
 .font-size-16 {
