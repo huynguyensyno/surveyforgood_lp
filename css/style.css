@@ -64,6 +64,9 @@
     .mt-6 {
         margin-top: 3rem;
     }
+    .mt-4 {
+        margin-top: 2rem;
+    }
 }
 @media only screen and (min-width: 600px) {
     .mt-8 {
@@ -71,6 +74,10 @@
     }
     .mt-6 {
         margin-top: 6rem;
+    }
+
+    .mt-4 {
+        margin-top: 4rem;
     }
 } 
 
